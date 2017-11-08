@@ -22,3 +22,7 @@ nav ul {
   margin-left: 0px;
   margin-bottom: 0px;
 }
+
+nav ul li {
+  display: inline; 
+}
